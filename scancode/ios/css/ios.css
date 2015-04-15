@@ -1,0 +1,7 @@
+/* Background */
+/* Layout */
+
+body{background:#f9faff;}
+a{color:#006b43;text-decoration: none;}
+.m-index .pic img{display:block; width:100%;}
+.m-index .m-copyright{text-align:center;margin-top:35px;padding:20px 0;border-top:1px dotted #d7d9db;color:#666;font-size:16px;}
